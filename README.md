@@ -1,5 +1,5 @@
 # Facial-Recognition-using-Siamese-Neural-Network
-This model is an implementation of the proposed Siamese Neural Network in the paper: <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf">Siamese Neural Networks for One-shot Image Recognition</a>
+This model is an implementation of the proposed Siamese Neural Network in the paper: <a href="https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf">Siamese Neural Networks for One-shot Image Recognition</a>
 ## Dataset used
 For **negative** pictures:   
 we used the <a href="https://vis-www.cs.umass.edu/lfw/">Labeled Faces in the Wild Dataset</a> which you can download from the link  
